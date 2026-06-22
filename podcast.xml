@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ゲーム業界 朝のニュース</title>
+    <link>https://yoichitake.github.io/game-news-podcast</link>
+    <atom:link href="https://yoichitake.github.io/game-news-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
+    <language>ja</language>
+    <description>コンシューマ機/PCゲーム開発の経営者・開発者向けに、業界の重要ニュースを毎朝お届けします。</description>
+    <itunes:author>Game News Digest</itunes:author>
+    <itunes:category text="News"/>
+    <itunes:explicit>false</itunes:explicit>
+    <lastBuildDate>Mon, 22 Jun 2026 06:28:25 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界 朝のニュース 2026/06/22</title>
+      <description>本日の主要トピック：本日の最大トピックは、ユービーアイソフト共同創業者のクロード・ギユモ氏が航空事故で逝去したことです。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260622.mp3" length="1531392" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260622.mp3</guid>
+      <pubDate>Mon, 22 Jun 2026 15:28:25 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
