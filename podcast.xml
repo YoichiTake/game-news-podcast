@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界 朝のニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Mon, 22 Jun 2026 06:43:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:01:17 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界 朝のニュース 2026/06/23</title>
+      <description>本日の主要トピック：本日の最大トピックはSteam Machineの価格発表と発売日決定です。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260623.mp3" length="1594368" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260623.mp3</guid>
+      <pubDate>Tue, 23 Jun 2026 09:01:17 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界 朝のニュース 2026/06/22</title>
       <description>本日の主要トピック：本日の最大トピックは、Ubisoft共同創業者のクロード・ギユモ氏が航空事故で急逝したことです。</description>
