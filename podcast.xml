@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界 朝のニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Thu, 25 Jun 2026 00:01:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:06:01 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界 朝のニュース 2026/06/26</title>
+      <description>本日の主要トピック：本日の最大トピックはXbox本体価格の大幅値上げです。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260626.mp3" length="2307456" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260626.mp3</guid>
+      <pubDate>Fri, 26 Jun 2026 09:06:01 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界 朝のニュース 2026/06/25</title>
       <description>本日の主要トピック：本日の最大トピックは『グランド・セフト・オートVI』の価格発表です。</description>
