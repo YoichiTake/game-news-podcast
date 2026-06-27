@@ -3,7 +3,7 @@
      xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
      xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>ゲーム業界 朝のニュース</title>
+    <title>ゲーム業界ニュース</title>
     <link>https://yoichitake.github.io/game-news-podcast</link>
     <atom:link href="https://yoichitake.github.io/game-news-podcast/podcast.xml" rel="self" type="application/rss+xml"/>
     <language>ja</language>
@@ -17,8 +17,16 @@
     </itunes:owner>
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
-    <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界 朝のニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Fri, 26 Jun 2026 23:00:43 +0000</lastBuildDate>
+    <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
+    <lastBuildDate>Sat, 27 Jun 2026 22:52:35 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年6月28日</title>
+      <description>本日の主要トピック：『スター・ウォーズ エクリプス』開発が人員削減で危機に</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260628.mp3" length="2080128" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260628.mp3</guid>
+      <pubDate>Sun, 28 Jun 2026 07:52:35 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界 朝のニュース 2026/06/27</title>
       <description>本日の主要トピック：Bungieが大規模な人員削減を発表</description>
