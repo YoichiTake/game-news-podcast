@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Sun, 28 Jun 2026 22:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 22:46:27 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年6月30日</title>
+      <description>本日の主要トピック：Supermassive GamesのCEO退任と業界の注目ニュース</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260630.mp3" length="2275200" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260630.mp3</guid>
+      <pubDate>Tue, 30 Jun 2026 07:46:27 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年6月29日</title>
       <description>本日の主要トピック：新作スターウォーズゲームの開発が危機的状況に</description>
