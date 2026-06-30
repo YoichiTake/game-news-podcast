@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Mon, 29 Jun 2026 22:46:27 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 23:04:07 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月1日</title>
+      <description>本日の主要トピック：7月1日、XBOX関連スタジオでの大規模レイオフの可能性が報じられました。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260701.mp3" length="2637696" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260701.mp3</guid>
+      <pubDate>Wed, 01 Jul 2026 08:04:07 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年6月30日</title>
       <description>本日の主要トピック：Supermassive GamesのCEO退任と業界の注目ニュース</description>
