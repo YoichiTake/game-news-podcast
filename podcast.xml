@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Fri, 03 Jul 2026 22:55:10 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 22:47:37 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月5日</title>
+      <description>本日の主要トピック：ゲーム業界の重要ニュースをお届けします</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260705.mp3" length="2340864" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260705.mp3</guid>
+      <pubDate>Sun, 05 Jul 2026 07:47:37 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月4日</title>
       <description>本日の主要トピック：PlayStationが物理メディアの生産終了を発表</description>
