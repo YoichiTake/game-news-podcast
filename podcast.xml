@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Sun, 05 Jul 2026 22:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 22:56:51 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月7日</title>
+      <description>本日の主要トピック：Xboxの大規模リストラに対する業界の反応</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260707.mp3" length="1928064" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260707.mp3</guid>
+      <pubDate>Tue, 07 Jul 2026 07:56:51 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月6日</title>
       <description>本日の主要トピック：小島秀夫氏がPlayStationのディスク生産終了計画に警告</description>
