@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Tue, 07 Jul 2026 22:52:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 22:57:30 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月9日</title>
+      <description>本日の主要トピック：ガンホー元幹部が背任容疑で逮捕される</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260709.mp3" length="2834688" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260709.mp3</guid>
+      <pubDate>Thu, 09 Jul 2026 07:57:30 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月8日</title>
       <description>本日の主要トピック：Xboxのリストラがゲーム業界に大きな影響を与えています</description>
