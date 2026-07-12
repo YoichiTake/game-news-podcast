@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Sat, 11 Jul 2026 22:38:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 22:37:52 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月13日</title>
+      <description>ゲーム業界の朝の重要ニュース。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260713.mp3" length="90624" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260713.mp3</guid>
+      <pubDate>Mon, 13 Jul 2026 07:37:52 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月12日</title>
       <description>本日の主要トピック：アサシン クリードシリーズの新作3タイトルが発表</description>
