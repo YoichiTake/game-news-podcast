@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Tue, 14 Jul 2026 22:46:15 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 22:48:41 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月16日</title>
+      <description>本日の主要トピック：ゲーム業界の重要ニュースをお届けします。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260716.mp3" length="3094656" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260716.mp3</guid>
+      <pubDate>Thu, 16 Jul 2026 07:48:41 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月15日</title>
       <description>本日の主要トピック：Epic Games Storeの責任者がSaber Interactiveに移籍</description>
