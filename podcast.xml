@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Mon, 20 Jul 2026 22:45:50 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 22:44:17 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月22日</title>
+      <description>本日の主要トピック：ディズニーが数百人の従業員を解雇、ピクサーも影響を受ける</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260722.mp3" length="2075520" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260722.mp3</guid>
+      <pubDate>Wed, 22 Jul 2026 07:44:17 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月21日</title>
       <description>本日の主要トピック：新作RTS「ZeroSpace」がアーリーアクセス開始</description>
