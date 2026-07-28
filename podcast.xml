@@ -18,7 +18,15 @@
     <managingEditor>yoichi.take@gmail.com (Game News Digest)</managingEditor>
     <itunes:image href="https://yoichitake.github.io/game-news-podcast/cover.png"/>
     <image><url>https://yoichitake.github.io/game-news-podcast/cover.png</url><title>ゲーム業界ニュース</title><link>https://yoichitake.github.io/game-news-podcast</link></image>
-    <lastBuildDate>Mon, 27 Jul 2026 22:50:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 22:51:23 +0000</lastBuildDate>
+    <item>
+      <title>ゲーム業界ニュース 2026年7月29日</title>
+      <description>ゲーム業界の重要ニュースをまとめた読み上げ用の説明です。</description>
+      <enclosure url="https://yoichitake.github.io/game-news-podcast/episodes/digest_20260729.mp3" length="4542720" type="audio/mpeg"/>
+      <guid isPermaLink="false">digest_20260729.mp3</guid>
+      <pubDate>Wed, 29 Jul 2026 07:51:23 +0900</pubDate>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>ゲーム業界ニュース 2026年7月28日</title>
       <description>ゲーム業界の重要ニュースをまとめた読み上げ用の説明です。</description>
